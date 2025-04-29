@@ -1,2 +1,2 @@
 # ritotak
-conlang
+unfinished conlang
